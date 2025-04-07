@@ -23,7 +23,8 @@ This is my personal portfolio website, designed to showcase my skills, achieveme
 - `resume.html` – Resume details and download option  
 - `contact.html` – Contact form and social links  
 - `styles.css` – Main stylesheet for the site  
-- `images/` – Folder containing all assets used  
+- `images` – Folder containing all assets used
+- `thankyou.html` – Message after submitting the forms
 
 ---
 
